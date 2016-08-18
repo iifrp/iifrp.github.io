@@ -1,0 +1,12 @@
+# Site settings
+title: IIFRP.org
+email:
+description: >
+  Improving and standardizing the design, development, and construction of food.
+baseurl: ""
+url: "https://iifrp.org"
+twitter_username: iifrporg
+github_username:  iifrp
+
+# Build settings
+markdown: kramdown

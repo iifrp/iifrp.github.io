@@ -1,0 +1,142 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: "Courier", Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+header.site-header {
+    border: 0px #ffffff;
+}
+
+.post div.post-title {
+    font-size: 20px;
+}
+
+.site-header .wrapper {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+div.post-content {
+    text-align: justify;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
+
+
+// BEGIN IETF Styling
+
+
+@media only screen
+  and (min-device-width: 1200px) {
+    body { font-size: 10pt; margin: 0 4em; }
+    div.content { width: 96ex; margin: 0; }
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-weight: bold;
+    line-height: 0pt;
+    display: inline;
+    white-space: pre;
+    font-family: monospace;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+pre {
+    font-size: 1em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.pre {
+    white-space: pre;
+    font-family: monospace;
+}
+
+.header{
+    font-weight: bold;
+}
+
+.newpage {
+    page-break-before: always;
+}
+
+.invisible {
+    text-decoration: none;
+    color: white;
+}
+
+a.selflink {
+  color: black;
+  text-decoration: none;
+}
+
+@media screen {
+    .grey, .grey a:link, .grey a:visited {
+        color: #777;
+    }
+    .docinfo {
+        background-color: #EEE;
+    }
+    .top {
+        border-top: 7px solid #EEE;
+    }
+    .bgwhite  { background-color: white; }
+    .bgred    { background-color: #F44; }
+    .bggrey   { background-color: #666; }
+    .bgbrown  { background-color: #840; }
+    .bgorange { background-color: #FA0; }
+    .bgyellow { background-color: #EE0; }
+    .bgmagenta{ background-color: #F4F; }
+    .bgblue   { background-color: #66F; }
+    .bgcyan   { background-color: #4DD; }
+    .bggreen  { background-color: #4F4; }
+
+    .legend   { font-size: 90%; }
+    .cplate   { font-size: 70%; border: solid grey 1px; }
+}
