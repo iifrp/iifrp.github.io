@@ -1,0 +1,197 @@
+---
+layout: post
+title:  "RFC #100: A Standard for the Composition and Construction of Burritos in an American Breakfast Style"
+date:   2016-08-18 13:38:21 -0700
+categories: rfc burritos
+permalink: /rfc/001
+---
+
+Breakfast Foods Working Group<br />
+Request for Comments: 100<br />
+Category: Working Draft<br />
+
+Brian Schrader<br />
+August 2016
+
+------
+
+<style>.docinfo { border-top: 3px solid #F44; }</style>
+
+Status of this Memo
+
+   This memo contains a proposed standard for the community. It makes no claim to enforce the proposal contained herein. Distribution of this memo is unlimited.
+
+Copyright Notice
+
+   Copyright (C) IIFRP (2016).  All Rights Reserved.
+
+Abstract
+
+   This document describes the proposed standard of construction and composition of American-style Breakfast Burritos.
+
+Table of Contents
+
+1. [Introduction](#1)
+
+    1.1 [Rational and Scope](#1.1)
+
+    1.2 [Terminology](#1.2)
+
+2. [High Level Burrito Composition](#2)
+
+    2.1. [Tortilla Wrapped Design](#2.1)
+
+    2.2. [Required Filling Components](#2.2)
+
+    2.2.1. [Eggs](#2.2.1)
+
+    2.2.2. [Potatoes](#2.2.2)
+
+    2.2.3. [Meat](#2.2.3)
+
+    2.2.4. [Cheese](#2.2.3)
+
+    2.3. [Recommended Filling Components](#2.3)
+
+    2.4. [Optional Filling Components](#2.4)
+
+3. [Burrito Design and Assembly](#3)
+
+4. [Extensibility Considerations](#4)
+
+5. [International Condiderations](#5)
+
+6. [Formal Specification](#6)
+
+7. [Suggestions for Improvements](#7)
+
+8. [Author's Addresses](#8)
+
+
+<span id="1">1.</span> **INTRODUCTION**
+
+<span id="1.1">1.1.</span> Rationale and Scope
+
+   Breakfast Burritos are a staple of the American diet, especially in states or regions close in proximity to the Southern Border with Mexico. And while the popularity of Breakfast Burritos is immense, little effort has been made, on the part of the community, to incorporate any set of shared principles or definitions as to what constitues a Breakfast Burrito. Indeed it is the purpose of this document to lay out the foundations for the discussion within the community and reach a conclusion as to what defines this wholesome, American staple food.
+
+   The desire for such a standard lies in the best interests of the consumer. Without such a standard, customer trust, and satisfaction with a given foodstuff cannot be prudently guaranteed by the server. This leads to increased customer wariness as the risk of an undesirable result is high. However, with the adoption, and recognition of a community standard, customer trust in the guarantee of a consistent foodstuff results in increased satisfaction with, and desire for this most common and, in the author's mind, ingenious foods.
+
+<span id="1.2">1.2.</span> Terminology
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   [IETF RFC2119][RFC2119].
+
+   [RFC2119]: https://tools.ietf.org/html/rfc2119
+
+   This document defines the following additional terms:
+
+   Client:   In the context of this memo, this is a person or persons that
+      initiates a provisioning request.  It is sometimes referred to as
+      a "customer".
+
+   Server:   In the context of this memo, this is a person or persons that
+      receives a provisioning request and responds accordingly. This is sometimes referred to as a "seller" or "retailer".
+
+
+<span id="2">2.</span> **HIGH LEVEL BURRITO COMPOSITION**
+
+   The purpose of this proposal is to ensure the consistent makeup and minimum specification for a Breakfast Burrito. With that in mind it is crucial to ensure the correct minimum composition of the food. This section will formally explain the requirements for a tortilla wrapped foodstuff to be considered a Breakfast Burrito.
+
+   <span id="2.1">2.1.</span> Tortilla Wrapped Design
+
+   The first, and perhaps most immediately identifiable ingredient in a Breakfast Burrito is the tortilla. A tortilla is a REQUIRED ingredient. This thin, flour-based, bread-like component will serve as the base and casing for the entire remainder of the construct. As such, the tortilla SHOULD be both flexible enough to ensure that it can be molded properly, and SHOULD be rugged enough to be rolled into the desired shape without tearing.
+
+   It is RECOMMENDED that the tortilla be warmed on a hot surface (i.e. toasted in a pan or directly on a grill or above a gas-stove flame in order to both soften the tortilla for assembly, and cause a light layer of crunch on one side. If toasting is performed, the side of the tortilla that has achieved the largest amount of toasting (i.e. the crunchiest side) SHOULD be the side facing the internal components of the burrito. This is due to the fact that the crunchy side is also typically the weakest side, structurally speaking, and using this side as the most outside layer is known to cause a premature rapid unintended disassembly (P-RUD).
+
+   <span id="2.2">2.2.</span> Required Filling Components
+
+   While a typical American, and Mexican burrito can incorporate many different ingredients and cooking methods, an American-Style Breakfast Burrito contains a fairly restrictive subset of these possibilities. The official list of REQUIRED components is as follows:
+
+   (Explanation to follow)
+
+   - Eggs
+   - Potatoes
+   - Meat (Sausage, Bacon, Chorizo, or Machaca)
+   - Cheese (Cheddar, Monterey Jack, Colby Jack, or Pepper Jack)
+
+   Each of the above REQUIRED ingredients will now be described in detail. It is important to note that the presence of the above ingredients is necessary but not sufficient to fulfill the requirements. There is REQUIRED preparation needed as well.
+
+   <span id="2.2.1">2.2.1.</span> Eggs
+
+   When preparing the eggs, it is RECOMMENDED to scramble, in a conventional way, them before cooking. Eggs, according to many professional chefs, are correctly cooked when they are still moist and mildly runny, however in the formation of a standard Breakfast Burrito this is not required. A server MAY prepare the eggs in such a fashion, but it is RECOMMENDED to slightly overcook them to the point where they begin to toast. This will cause the resulting burrito to be drier that in the former case, but in a standard burrito, this dryness is offset by the addition of RECOMMENDED sauces.
+
+   It is important to note that the quantity of the eggs in a burrito will have a large impact on the size of the overall product. Therefor a Standard Breakfast Burrito should contain no less than one and no more that three large eggs. Two eggs is RECOMMENDED.
+
+   <span id="2.2.2">2.2.2.</span> Potatoes
+
+   The potatoes in a standard Breakfast Burrito is also RECOMMENDED to be toasted. The method of cutting, be it diced, sliced, or criss-cut, is open to the server. The two most common forms of potato shapes in Breakfast Burritos and therefor the RECOMMENDED approaches are to either prepare them in the style of American french fries, or American homestyle fries (i.e. cut in long, thin strips and deep fried, or cut in approximately 1" square cubes and  pan fried in garlic and pepper). In either case, the finished potatoes MUST be lightly salted.
+
+   It is important to note that the quantity of the potatoes in a burrito will have a large impact on the weight of the overall product. Therefor a Standard Breakfast Burrito should contain no less than one-half and no more that one and one half medium potatoes. One is RECOMMENDED.
+
+   <span id="2.2.3">2.2.3.</span> Meat
+
+   Choosing the meat for a Breakfast Burrito is one of the most important decisions either a customer or seller can make as it will effect the overall texture, and spice of the resulting product. Therefor it is crucial for a seller to ensure that the available choices are of top quality before allowing a customer to select their preferred filling.
+
+   In either case, as specified above, a standard Breakfast Burrito MUST contain one of the following meat choices: Sausage, Bacon, Chorizo, or Machaca.
+
+   The addition of meats beyond the scope of the above list MAY be in addition to the above, but MUST NOT be a substitute for them.
+
+   <span id="2.2.4">2.2.4.</span> Cheese
+
+   The cheese in a Standard Breakfast Burrito must be melted when the burrito is served. Cold, and stiff cheese is a significant deterrent to the overall enjoyment of a burrito, and therefor should be avoided. It is RECOMENDED to place the cheese directly on top of the warmed tortilla before placing the other ingredients because their combined warmth will ensure that the cheese is melted before delivery.
+
+   As specified above, a standard Breakfast Burrito MUST contain one of the following meat choices: Cheddar, Monterey Jack, Colby Jack, or Pepper Jack. Mixtures of the above cheese are permitted.
+
+   The addition of meats beyond the scope of the above list MAY be in addition to the above, but MUST NOT be a substitute for them.
+
+   <span id="2.3">2.3.</span> Recommended Filling Components
+
+
+
+   <span id="2.4">2.4.</span> Optional Filling Components
+
+
+
+<span id="4">4.</span> **BURRITO DESIGN AND ASSEMBLY**
+
+
+
+<span id="5">5.</span> **EXTENSIBILITY CONSIDERATIONS**
+
+
+
+<span id="6">6.</span> **INTERNATIONAL CONSIDERATIONS**
+
+
+
+<span id="7">7.</span> **FORMAL SPECIFICATION**
+
+To review: a Standard Breakfast Burrito MUST contain the following:
+
+(Ingredients are displayed in order of assembly and in approximate relative amounts)
+
+                    *==============*
+                    ||    Meat    ||
+                    *=========================*==============*
+                    ||        Eggs           ||   Potatoes  ||
+                    *=========================*==============*
+                    *=============== Cheese =================*
+        *------------------------------Tortilla--------------------------------*
+
+Where:<br />
+Meat = Sausage \| Bacon \| Chorizo \| Machaca<br />
+Cheese = Cheddar \| Monterey Jack \| Colby Jack \| Pepper Jack
+
+
+<span id="8">8.</span> **ACKNOWLEDGEMENTS**
+
+   Brian Schrader<br />
+   email: brian "at" brianschrader "dot" com
+
+
+
+
+
+
