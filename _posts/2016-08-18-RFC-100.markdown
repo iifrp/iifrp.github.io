@@ -9,6 +9,7 @@ permalink: /rfc/001
 Breakfast Foods Working Group<br />
 Request for Comments: 100<br />
 Category: Working Draft<br />
+Status: **Draft**<br />
 
 Brian Schrader<br />
 August 2016
