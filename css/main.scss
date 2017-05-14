@@ -60,6 +60,10 @@ div.post-content {
     text-align: justify;
 }
 
+div.post-content ol {
+    padding-left: 20px;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
