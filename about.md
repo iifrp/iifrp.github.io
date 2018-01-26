@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: "IIFRP: Goals and Motivations"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The International Institute of Food Related Protocols (IIFRP) is an community of
+people devoted to the idea that the foods we eat deserve special attention. So many
+people all over the world struggle to define and often to consistently deliver delicious
+foods. Our mission is to enable both consumers and producers of these dishes the
+ability to be certain that what they order or serve is what they actually want.
+We fight, as a community, to eliminate confusion by standardizing what being a
+specific foodstuff actually means.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+We fight to make sure that a melt is a melt, and a shake isn't a malt. We fight So
+that future generations know on what bread to serve a Ruben. We fight for the food.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Together we can make your next meal perfectly standard.
