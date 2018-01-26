@@ -149,25 +149,28 @@ Table of Contents
 
    The addition of cheeses beyond the scope of the above list MAY be in addition to the above, but MUST NOT be a substitute for them.
 
-   <span id="2.3">2.3.</span> Recommended Filling Components
-
-
-
-   <span id="2.4">2.4.</span> Optional Filling Components
-
-
 
 <span id="4">4.</span> **BURRITO DESIGN AND ASSEMBLY**
 
+Standard Breakfast Burritos, and in fact most well-made Burritos are structurally sound and prevent excessive spillage of filler ingredients during consumption. This design is essential to the Burrito's intention as a quick, near street-food.
 
+That said, a standard Breakfast Burrito must be folded as described as follows:
+
+1. The Tortilla is laid out flat on a space large enough to hold the tortilla so that it doesn't contact other surfaces or roll off of the edge of a counter or table.
+
+2. Ingredients, as specified in other sections, are to be laid out in a thick horizontal line across the edge of the first third of the Tortilla.
+
+3. The edges on each end of the line of filler ingredients must be folded in to prevent seepage.
+
+4. Starting at the first third, fold the Tortilla on top of the ingredients before rolling into a cylinder.
 
 <span id="5">5.</span> **EXTENSIBILITY CONSIDERATIONS**
 
-
+[Placeholder]
 
 <span id="6">6.</span> **INTERNATIONAL CONSIDERATIONS**
 
-
+[Placeholder]
 
 <span id="7">7.</span> **FORMAL SPECIFICATION**
 
