@@ -27,7 +27,7 @@ All accepted documents are given a designation as per the following categories. 
 - **Internet Standard [Green]**: Accepted community standards. These are the criteria for being an *IIFRP Compliant Product*.
 - **Historic [Gray]**: Previously accepted standards, or practices documents which are no longer relevant, but preserved for historical context.
 - **Obsolete [Brown]**: Previously accepted standards, or practices documents which are no longer accepted and have been superseded by another standard.
-- Unknown or Misc. [White]: Any document that does not fit into these categories or that the committee hasn't assigned a designation.
+- **Unknown or Misc. [White]**: Any document that does not fit into these categories or that the committee hasn't assigned a designation.
 
 
 ##### Required Sections for Proposed Standards
