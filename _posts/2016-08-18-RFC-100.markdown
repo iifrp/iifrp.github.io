@@ -38,7 +38,7 @@ Table of Contents
 
     1.2 [Terminology](#1.2)
 
-2. [High Level Burrito Composition](#2)
+2. [Composition](#2)
 
     2.1. [Tortilla Wrapped Design](#2.1)
 
@@ -56,7 +56,7 @@ Table of Contents
 
     2.4. [Optional Filling Components](#2.4)
 
-3. [Burrito Design and Assembly](#3)
+3. [Design and Assembly](#3)
 
 4. [Extensibility Considerations](#4)
 
@@ -64,9 +64,7 @@ Table of Contents
 
 6. [Formal Specification](#6)
 
-7. [Suggestions for Improvements](#7)
-
-8. [Author's Addresses](#8)
+7. [Acknowledgements](#7)
 
 
 <span id="1">1.</span> **INTRODUCTION**
@@ -98,7 +96,7 @@ Table of Contents
    CUP:   In the context of this memo, this is a standard unit of measurement. It equals 250 milliliters or 8.80 imperial
       fluid ounces. This is sometimes referred to as a "cup".
 
-<span id="2">2.</span> **HIGH LEVEL BURRITO COMPOSITION**
+<span id="2">2.</span> **COMPOSITION**
 
    The purpose of this proposal is to ensure the consistent makeup and minimum specification for a Breakfast Burrito. With that in mind it is crucial to ensure the correct minimum composition of the food. This section will formally explain the requirements for a tortilla wrapped foodstuff to be considered a Breakfast Burrito.
 
@@ -150,7 +148,7 @@ Table of Contents
    The addition of cheeses beyond the scope of the above list MAY be in addition to the above, but MUST NOT be a substitute for them.
 
 
-<span id="4">4.</span> **BURRITO DESIGN AND ASSEMBLY**
+<span id="3">3.</span> **DESIGN AND ASSEMBLY**
 
 Standard Breakfast Burritos, and in fact most well-made Burritos are structurally sound and prevent excessive spillage of filler ingredients during consumption. This design is essential to the Burrito's intention as a quick, near street-food.
 
@@ -164,15 +162,15 @@ That said, a standard Breakfast Burrito must be folded as described as follows:
 
 4. Starting at the first third, fold the Tortilla on top of the ingredients before rolling into a cylinder.
 
-<span id="5">5.</span> **EXTENSIBILITY CONSIDERATIONS**
+<span id="4">4.</span> **EXTENSIBILITY CONSIDERATIONS**
 
 [Placeholder]
 
-<span id="6">6.</span> **INTERNATIONAL CONSIDERATIONS**
+<span id="5">5.</span> **INTERNATIONAL CONSIDERATIONS**
 
 [Placeholder]
 
-<span id="7">7.</span> **FORMAL SPECIFICATION**
+<span id="6">6.</span> **FORMAL SPECIFICATION**
 
 To review: a Standard Breakfast Burrito MUST contain the following:
 
@@ -191,7 +189,7 @@ Meat = Sausage \| Bacon \| Chorizo \| Machaca<br />
 Cheese = Cheddar \| Monterey Jack \| Colby Jack \| Pepper Jack
 
 
-<span id="8">8.</span> **ACKNOWLEDGEMENTS**
+<span id="7">7.</span> **ACKNOWLEDGEMENTS**
 
    Brian Schrader<br />
    email: brian "at" brianschrader "dot" com

@@ -29,3 +29,18 @@ All accepted documents are given a designation as per the following categories. 
 - **Obsolete [Brown]**: Previously accepted standards, or practices documents which are no longer accepted and have been superseded by another standard.
 - Unknown or Misc. [White]: Any document that does not fit into these categories or that the committee hasn't assigned a designation.
 
+
+##### Required Sections for Proposed Standards
+
+When submitting a document for review and possible acceptance as a standard, it must contain the relevant following sections and subsections. Any sections or subsections that are not specified are left to the author, and additional subsections may be added where needed.
+
+1. Introduction
+  - 1.1. Rationale and Scope
+  - 1.2. Terminology
+2. Composition
+3. Design and Assembly
+4. Extensibility Considerations
+5. International Considerations
+6. Formal Specification
+7. Acknowledgements
+
