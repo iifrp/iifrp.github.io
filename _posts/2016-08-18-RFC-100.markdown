@@ -64,8 +64,9 @@ Table of Contents
 
 6. [Formal Specification](#6)
 
-7. [Acknowledgements](#7)
+7. [Ethical Concerns](#7)
 
+8. [Acknowledgements](#8)
 
 <span id="1">1.</span> **INTRODUCTION**
 
@@ -189,7 +190,15 @@ Meat = Sausage \| Bacon \| Chorizo \| Machaca<br />
 Cheese = Cheddar \| Monterey Jack \| Colby Jack \| Pepper Jack
 
 
-<span id="7">7.</span> **ACKNOWLEDGEMENTS**
+<span id="7">7.</span> **ETHICAL CONCERNS**
+
+In those crucial instances when a server/client dynamic is present concomitant with breakfast burrito preparation, the greater burden of ethical responsibility inevitably belongs to the server. 
+
+If inferior or tainted ingredients are knowingly used by the server in breakfast burrito construction, the actions of that server would be considered ‘unethical’ by the IIFRP Ethical & Legal Subcommittee. 
+
+It is RECOMMENDED that all servers be vigilantly cognizant of the quality of the ingredients to be utilized in the construction of the breakfast burrito.  Potential consequences MAY include, but are not limited to, client morbidity/mortality, legal ramifications, and/or a breakfast burrito that is not as tasty as anticipated.
+
+<span id="8">7.</span> **ACKNOWLEDGEMENTS**
 
    Brian Schrader<br />
    email: brian "at" brianschrader "dot" com
