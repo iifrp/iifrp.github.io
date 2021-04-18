@@ -4,15 +4,51 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Proposals</h1>
+  <h1>Recent Announcements</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for rfc in site.posts limit:5 %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ rfc.date | date: "%b %-d, %Y" }}</span>
 
         <div class="post-title">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ rfc.url | prepend: site.baseurl }}">{{ rfc.title }}</a>
+        </div>
+      </li>
+    {% else %}
+    <p><i>No recently announcements.</i></p><hr/>
+    {% endfor %}
+  </ul>
+
+  {% assign accpted_rfcs = site.rfc | reverse | where: "status", "accepted" %}
+
+  <h1>Accepted RFCs</h1>
+
+  <ul class="post-list">
+    {% for rfc in accpted_rfcs limit:5 %}
+      <li>
+        <span class="post-meta">{{ rfc.date | date: "%b %-d, %Y" }}</span>
+
+        <div class="post-title">
+          <a class="post-link" href="{{ rfc.url | prepend: site.baseurl }}">{{ rfc.title }}</a>
+        </div>
+      </li>
+    {% else %}
+    <p><i>No recently accepted RFCs.</i></p><hr/>
+    {% endfor %}
+  </ul>
+
+  <h1>Proposed RFCs</h1>
+
+  {% assign pending_rfcs = site.rfc | reverse | where: "status", "draft" %}
+
+  <ul class="post-list">
+    {% for rfc in pending_rfcs limit:5 %}
+      <li>
+        <span class="post-meta">{{ rfc.date | date: "%b %-d, %Y" }}</span>
+
+        <div class="post-title">
+          <a class="post-link" href="{{ rfc.url | prepend: site.baseurl }}">{{ rfc.title }}</a>
         </div>
       </li>
     {% endfor %}

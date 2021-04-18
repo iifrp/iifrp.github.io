@@ -51,6 +51,10 @@ header.site-header {
     font-size: 20px;
 }
 
+li a.post-link {
+    font-size: 18px;
+}
+
 .site-header .wrapper {
     padding-left: 0px;
     padding-right: 0px;
@@ -89,6 +93,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: monospace;
     font-size: 1em;
     font-weight: bold;
+}
+
+h1 {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    display: block;
+}
+
+hr {
+    margin: 1.5rem 0px;
 }
 
 pre {

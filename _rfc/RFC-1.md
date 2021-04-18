@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "RFC #100: A Standard for the Composition and Construction of Burritos in an American Breakfast Style"
+title:  "RFC #1: A Standard for the Composition and Construction of Burritos in an American Breakfast Style"
 date:   2016-08-18 13:38:21 -0700
 categories: rfc burritos
-permalink: /rfc/001
+status: draft
 ---
 
 Breakfast Foods Working Group<br />
-Request for Comments: 100<br />
-Category: Working Draft<br />
-Status: **Draft**<br />
+Request for Comments: 1<br />
+Category: Proposed Standard<br />
+Status: **Pending Comment**<br />
 
 Brian Schrader<br />
-Jenn Mote<br />
+Jennifer M. Sardina, MS LCGC<br />
 August 2016
 
 ------
 
-<style>.docinfo { border-top: 3px solid #F44; }</style>
+<style>.docinfo { border-top: 3px solid #66F; }</style>
 
 Status of this Memo
 
@@ -65,9 +65,17 @@ Table of Contents
 
 6. [Formal Specification](#6)
 
-7. [Ethical Concerns](#7)
+7. [Public Health Condiderations](#7)
 
-8. [Acknowledgements](#8)
+8. [Ethical Condiderations](#8)
+
+9. [References](#9)
+
+    9.1 [Normative References](#9.1)
+
+    9.2 [Informative References](#9.2)
+
+10. [Acknowledgements](#8)
 
 <span id="1">1.</span> **INTRODUCTION**
 
@@ -166,11 +174,14 @@ That said, a standard Breakfast Burrito must be folded as described as follows:
 
 <span id="4">4.</span> **EXTENSIBILITY CONSIDERATIONS**
 
-[Placeholder]
+This standard SHOULD NOT be considered exhaustive. Should additional procedures, ingredients, or processes be considered standard or recommended by the committee, they should be appended to this standard.
 
 <span id="5">5.</span> **INTERNATIONAL CONSIDERATIONS**
 
-[Placeholder]
+In a past scientific study, when available, the breakfast burrito was a popular choice and was selected equally by school age children across all ethnic backgrounds [PILOT-ZECHES].
+
+Due to the clear global appeal of the breakfast burrito [CULTURE-ELIZ], it is important to address any country-specific OPTIONAL modifications to the standard proposed in this document.
+
 
 <span id="6">6.</span> **FORMAL SPECIFICATION**
 
@@ -191,15 +202,55 @@ Meat = Sausage \| Bacon \| Chorizo \| Machaca<br />
 Cheese = Cheddar \| Monterey Jack \| Colby Jack \| Pepper Jack
 
 
-<span id="7">7.</span> **ETHICAL CONCERNS**
+<span id="7">7.</span> **PUBLIC HEALTH CONSIDERATIONS**
 
-In those crucial instances when a server/client dynamic is present concomitant with breakfast burrito preparation, the greater burden of ethical responsibility inevitably belongs to the server. 
+Within the scientific and medical communities, the breakfast burrito is generally considered a wholesome addition to most nutritional plans [BRAIN-NPR].  Prior studies have  also demonstrated that the consumption of breakfast burritos may confer an exceptional benefit to certain patient populations, including:
 
-If inferior or tainted ingredients are knowingly used by the server in breakfast burrito construction, the actions of that server would be considered ‘unethical’ by the IIFRP Ethical & Legal Subcommittee. 
+- Patients who are overweight/obese [REVIEW-BMI]
+- Bariatric patients undergoing surgery [SURG-GUIDE]
+- Patients with endocrine disorders (for example, diabetic ketoacidosis) [GLUC-DIET]
+
+Breakfast burritos contain egg, dairy, gluten, and are not part of a low-phenylalanine diet. Consuming a breakfast burrito may be contraindicated for clients with certain genetic conditions, medical diagnoses, suggestive clinical symptoms, or food allergies.
+
+It is RECOMMENDED that all concerned clients consult with a physician or medical professional prior to incorporating breakfast burritos into their regular diet.
+
+<span id="8">8.</span> **ETHICAL CONSIDERATIONS**
+
+In those crucial instances when a server/client dynamic is present concomitant with breakfast burrito preparation, the greater burden of ethical responsibility inevitably belongs to the server.
+
+If inferior or tainted ingredients are knowingly used by the server in breakfast burrito construction, the actions of that server would be considered unethical by the IIFRP Ethical & Legal Subcommittee.
 
 It is RECOMMENDED that all servers be vigilantly cognizant of the quality of the ingredients to be utilized in the construction of the breakfast burrito.  Potential consequences MAY include, but are not limited to, client morbidity/mortality, legal ramifications, and/or a breakfast burrito that is not as tasty as anticipated.
 
-<span id="8">7.</span> **ACKNOWLEDGEMENTS**
+<span id="9">9.</span> **REFERENCES**
+
+9.1.Normative References
+
+[IETF RFC2119] Bradner, S. et al., "Key words for use in 		RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997, <http://www.ietf.org/rfc/rfc2119.txt>.
+
+9.2.Informative References
+
+[PILOT-ZECHES] Zeches, B. et al., Pilot study to evaluate an egg burrito as an ethnic school breakfast item, PILOT-ZECHES, School Service Research Review, 1980, <http://agris.fao.org/agris-search/search.do?recordID=US8100114>.
+
+[CULTURE-ELIZ] Elizondo, Virgilio P.,The Future Is Mestizo: Life Where Cultures Meet, CULTURE-ELIZ, University Press of Colorado, 2000, <https://muse.jhu.edu/book/3828>.
+
+[FAST-POWERS] Powers, J. et al., Breakfast in the fast lane, FAST-POWERS, Journal of Renal Nutrition, DOI:http://dx.doi.org/10.1053/j.jrn.2016.02.009, February 2016,<http://www.jrnjournal.org/article/S1051-2276(16)00048-0/fulltext>.
+
+[REST-STRATEGY] Chathoth, P. et al., Turnaround Strategy: A Study of Restaurant Firms, REST-STRATEGY, Int Journal of Hospitality Management, doi:10.1016/j.ijhm.2005.04.010, December 2006, <https://www.sciencedirect.com/science/article/pii/S0278431905000514>.
+
+[TRENDS-US] Foodservice Breakfast Trends in the U.S., 2nd Edition, TRENDS-US, Packaged Facts, Pub ID: LA5141011, October 2013, <https://www.packagedfacts.com/Foodservice-Breakfast-Trends-7857050/>.
+
+[BRAIN-NPR] Aubrey, A., A Better Breakfast Can Boost A Child's Brainpower, BRAIN-NPR,National Public Radio, August 2006, <www.npr.org/templates/story/story.php?storyId=5738848>.
+
+[REVIEW-BMI] Szajewska, H. et al., Systematic review demonstrating that breakfast consumption influences body weight outcomes in children and adolescents in Europe, REVIEW-BMI, Critical Review Food Science Nutrition, doi:10.1080/10408390903467514, PMID: 20112153, February 2010, <https://www.ncbi.nlm.nih.gov/pubmed/20112153>.
+
+[SURG-GUIDE] Louis, Betty Wedman-St.Bariatric Surgery Patients: a Nutritional Guide, SURG-GUIDE, CRC Press, Taylor & Francis Group, 2017, <https://books.google.com/books?isbn=1498765653>.
+
+[GLUC-DIET] Amankwaah, A. et al., Effects of Higher Dietary Protein and Fiber Intakes at Breakfast on Postprandial Glucose, Insulin, and 24-h Interstitial Glucose in Overweight Adults, GLUC-DIET, Nutrients, DOI: 10.3390/nu9040352, PMID: 28368334 April 2017, <https://www.ncbi.nlm.nih.gov/pubmed/28368334>.
+
+<span id="10">10.</span> **ACKNOWLEDGEMENTS**
 
    Brian Schrader<br />
    email: brian "at" brianschrader "dot" com
+
+   Jennifer M. Sardina, MS LCGC

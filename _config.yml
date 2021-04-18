@@ -10,3 +10,14 @@ github_username:  iifrp
 
 # Build settings
 markdown: kramdown
+
+permalink: /document/:title:output_ext
+
+collections:
+    rfc:
+        output: true
+
+plugins_dir:
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-sitemap
