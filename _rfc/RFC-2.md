@@ -17,7 +17,7 @@ April 2021
 
 ------
 
-<style>.docinfo { border-top: 3px solid #66F; }</style>
+<style>.docinfo { border-bottom: 4px solid #66F; }</style>
 
 Status of this Memo
 

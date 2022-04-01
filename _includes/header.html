@@ -1,19 +1,22 @@
 <header class="site-header">
 
-  <div class="wrapper docinfo">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <div class="site-nav">
-      <a class="page-link" href="/standards-evolution">Mailing List</a>
-      <a class="page-link" href="/submission-guidelines">Submission Guidelines</a>
-      <a class="page-link" href="/about/">About</a>
-      &nbsp;
+  <div class="wrapper">
+    <div class="wrapper-inner">
+      <a class="site-title" href="{{ site.baseurl }}/">
+        <span class="lg-only">{{ site.title }}</span>
+        <span class="sm-only">{{ site.short_title }}</span>
+      </a>
+      <div class="site-nav">
+        <a class="page-link" href="/standards-evolution">Mailing List</a>
+        <a class="page-link" href="/submission-guidelines">Submissions</a>
+        <a class="page-link" href="/about/">About</a>
+      </div>
     </div>
-    <div style="height: 13px; width:100%;">
-      <div onmouseover="this.style.cursor='pointer';" onclick="showElem('legend');" onmouseout="hideElem('legend')" style="height: 6px; cursor: pointer;" class="pre noprint docinfo" title="Click for colour legend.">                                                                        </div>
+    <div class="legend-bar">
+      <div onmouseover="this.style.cursor='pointer';" onclick="showElem('legend');" onmouseout="hideElem('legend')" style="cursor: pointer;" class="pre noprint docinfo" title="Click for colour legend."></div>
       <div id="legend"
            class="docinfo noprint pre legend"
-           style="position:absolute; top: 4px; left: 4ex; visibility:hidden; background-color: white; padding: 4px 9px 5px 7px; border: solid #345 1px; "
+           style="position:absolute; top: 4px; left: 4ex; visibility:hidden; background-color: white; border: solid #345 1px; "
            onmouseover="showElem('legend');"
            onmouseout="hideElem('legend');">
       </div>

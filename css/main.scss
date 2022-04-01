@@ -79,9 +79,25 @@ div.post-content ol {
 // BEGIN IETF Styling
 
 
+.lg-only {
+    display: none;
+}
+.sm-only {
+    display: block;
+}
+
+@media only screen and (min-width: 750px) {
+    .lg-only {
+        display: block;
+    }
+    .sm-only {
+        display: none;
+    }
+}
+
 @media only screen
   and (min-device-width: 1200px) {
-    body { font-size: 10pt; margin: 0 4em; }
+    body { font-size: 10pt; margin: 0; }
     div.content { width: 96ex; margin: 0; }
 }
 
@@ -111,6 +127,10 @@ pre {
     margin-bottom: 0px;
 }
 
+blockquote {
+    font-size: $small-font-size;
+}
+
 .pre {
     white-space: pre;
     font-family: monospace;
@@ -134,26 +154,37 @@ a.selflink {
   text-decoration: none;
 }
 
+:root {
+    --unknown: white;
+    --draft: #F44;
+    --informational: #FA0;
+    --experimental: #EE0;
+    --best-common-practice: #F4F;
+    --proposed-standard: #66F;
+    --adopted-standard: #4F4;
+    --historic: #666;
+    --obsolete: #840;
+}
+
 @media screen {
     .grey, .grey a:link, .grey a:visited {
         color: #777;
     }
-    .docinfo {
+    header .wrapper {
         background-color: #EEE;
     }
     .top {
         border-top: 7px solid #EEE;
     }
-    .bgwhite  { background-color: white; }
-    .bgred    { background-color: #F44; }
-    .bggrey   { background-color: #666; }
-    .bgbrown  { background-color: #840; }
-    .bgorange { background-color: #FA0; }
-    .bgyellow { background-color: #EE0; }
-    .bgmagenta{ background-color: #F4F; }
-    .bgblue   { background-color: #66F; }
-    .bgcyan   { background-color: #4DD; }
-    .bggreen  { background-color: #4F4; }
+    .bgwhite  { background-color: var(--unknown); }
+    .bgred    { background-color: var(--draft); }
+    .bgorange { background-color: var(--informational); }
+    .bgyellow { background-color: var(--experimental); }
+    .bgmagenta{ background-color: var(--best-common-practice); }
+    .bgblue   { background-color: var(--proposed-standard); }
+    .bggreen  { background-color: var(--adopted-standard); }
+    .bggrey   { background-color: var(--historic); }
+    .bgbrown  { background-color: var(--obsolete); }
 
     .legend   { font-size: 90%; }
     .cplate   { font-size: 70%; border: solid grey 1px; }
