@@ -34,12 +34,14 @@ layout: default
 
   {% assign accpted_rfcs = site.rfc | reverse | where: "status", "accepted" %}
 
-  <h1>Recently Adopted Standards</h1>
+  <h1>Adopted Standards</h1>
 
   <ul class="post-list">
     {% for rfc in accpted_rfcs limit:5 %}
       <li>
-        <span class="post-meta">{{ rfc.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">
+          {{ rfc.date | date: "%b %-d, %Y" }},
+        </span>
 
         <div class="post-title">
           <a class="post-link" href="{{ rfc.url | prepend: site.baseurl }}">{{ rfc.title }}</a>
@@ -50,14 +52,16 @@ layout: default
     {% endfor %}
   </ul><hr/>
 
-  <h1>Recently Proposed Standards</h1>
+  <h1>Proposed Standards</h1>
 
   {% assign pending_rfcs = site.rfc | reverse | where: "status", "draft" %}
 
   <ul class="post-list">
     {% for rfc in pending_rfcs limit:5 %}
       <li>
-        <span class="post-meta">{{ rfc.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">
+          {{ rfc.date | date: "%b %-d, %Y" }},
+        </span>
 
         <div class="post-title">
           <a class="post-link" href="{{ rfc.url | prepend: site.baseurl }}">{{ rfc.title }}</a>
@@ -66,7 +70,26 @@ layout: default
     {% endfor %}
   </ul><hr/>
 
-  <h1>Recent Announcements</h1>
+  <h1>Other Submissions</h1>
+
+  {% assign recent_submissions = site.rfc | reverse | where_exp: "rfc", "rfc.status != 'accepted'" | where_exp: "rfc", "rfc.status != 'draft'" %}
+
+  <ul class="post-list">
+    {% for rfc in recent_submissions limit:5 %}
+      <li>
+        <span class="post-meta">
+          {{ rfc.date | date: "%b %-d, %Y" }},
+          {{ rfc.status | capitalize }}
+        </span>
+
+        <div class="post-title">
+          <a class="post-link" href="{{ rfc.url | prepend: site.baseurl }}">{{ rfc.title }}</a>
+        </div>
+      </li>
+    {% endfor %}
+  </ul><hr/>
+
+  <h1>Announcements</h1>
 
   <ul class="post-list">
     {% for rfc in site.posts limit:5 %}
