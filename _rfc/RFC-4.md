@@ -10,7 +10,7 @@ status: informational
 General Community<br />
 Request for Comments: 4<br />
 Category: Meta<br />
-Status: **Proposed Standard**<br />
+Status: **Informational**<br />
 
 Brian Schrader<br />
 April 2022
