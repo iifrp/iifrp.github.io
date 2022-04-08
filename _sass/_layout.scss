@@ -156,12 +156,12 @@ header div.site-nav a.page-link {
 }
 
 .post-title {
-    font-size: 20px;
+    font-size: 30px;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 20px;
+        font-size: 28px;
     }
 }
 
@@ -169,10 +169,10 @@ header div.site-nav a.page-link {
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 28px;
 
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 26px;
         }
     }
 
@@ -180,15 +180,15 @@ header div.site-nav a.page-link {
         font-size: 26px;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 24px;
         }
     }
 
     h4 {
-        font-size: 20px;
+        font-size: 24px;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 22px;
         }
     }
 }

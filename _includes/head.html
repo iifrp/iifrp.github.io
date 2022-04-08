@@ -10,8 +10,11 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
+  <link rel="alternate" type="application/rss+xml" title="Proposed and Draft RFCs" href="{{ "/feed/proposed-rfcs.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="Adopted RFCs" href="{{ "/feed/adopted-rfcs.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="All RFCs" href="{{ "/feed/all-rfcs.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-    <script type="text/javascript">
+  <script type="text/javascript">
     function addHeaderTags() {
         var spans = document.getElementsByTagName("span");
         for (var i=0; i < spans.length; i++) {
