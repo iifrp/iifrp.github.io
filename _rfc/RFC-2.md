@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RFC #2: The Recommended Structure of an IIRFP Request for Comments"
+title:  "RFC #2: The Recommended Structure of an IIFRP Request for Comments"
 date:   2021-04-18 13:38:21 -0700
 categories: rfc meta
 published: true
