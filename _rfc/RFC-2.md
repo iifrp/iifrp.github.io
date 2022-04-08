@@ -89,7 +89,7 @@ Accepted Proposal Types &amp; Color Codes:
 |Experimental|Yellow|#EE0|Any document detailing either an experimental recipe or possibly research studies relating.|
 |Best Common Practice|Magenta|#F4F|A document detailing a best practice. Normally these are for processes in preparation in general.|
 |Proposed Standard|Indigo|#66F|Documents that are undergoing the acceptance process to become official standards.|
-|Internet Standard|Green|#4F4|Accepted community standards. These are the criteria for being an IIFRP Compliant Product.|
+|Adopted Standard|Green|#4F4|Accepted community standards. These are the criteria for being an IIFRP Compliant Product.|
 |Historic|Gray|#666|Previously accepted standards, or practices documents which are no longer relevant, but preserved for historical context.|
 |Obsolete|Brown|#840|Previously accepted standards, or practices documents which are no longer accepted and have been superseded by another standard.|
 |Unknown or Misc|White|#fff|Any document that does not fit into these categories or that the committee hasn’t assigned a designation.|
