@@ -4,25 +4,37 @@ layout: default
 
 <div class="home">
 
-  <h1>Recent Announcements</h1>
+  <p>
+    Welcome to the official website for the International Institute of Food-Related Protocols.
+  </p>
+  <p>
+    The IIFRP is a standards-making community that aims to standardize the production of food. Learn more
+    about us by visiting our <a href="/about">about page</a>.
+  </p>
+  <p>
+    This site contains a collection of announcements, proposals for standards, and officially adopted standards.
+  </p>
+  <p>
+    <b>Want to submit a proposal?</b><br />
+    Check out our <a href="/submission-guidelines">submission guidelines</a>. Please ensure submissions meet the required criteria explained the guidelines.
+    Invalid requests will not be published.
+  </p>
+  <p>
+    <b>Want to get involved?</b><br />
+    Membership in the IIFRP is purely voluntary. Sign up for the <a href="/standards-evolution">Mailing List</a>
+    to join in on the discussion.
+  </p>
+  <p>
+    <b>Want to ensure your food meets the standard?</b><br />
+    Browse the list of approved standards to ensure your food meets the required specifications. If you're
+    looking to stay ahead of the game, take a look at the proposals that are coming up for a vote.
+  </p>
 
-  <ul class="post-list">
-    {% for rfc in site.posts limit:5 %}
-      <li>
-        <span class="post-meta">{{ rfc.date | date: "%b %-d, %Y" }}</span>
-
-        <div class="post-title">
-          <a class="post-link" href="{{ rfc.url | prepend: site.baseurl }}">{{ rfc.title }}</a>
-        </div>
-      </li>
-    {% else %}
-    <p><i>No recently announcements.</i></p><hr/>
-    {% endfor %}
-  </ul>
+  <hr/>
 
   {% assign accpted_rfcs = site.rfc | reverse | where: "status", "accepted" %}
 
-  <h1>Accepted RFCs</h1>
+  <h1>Recently Adopted Standards</h1>
 
   <ul class="post-list">
     {% for rfc in accpted_rfcs limit:5 %}
@@ -34,11 +46,11 @@ layout: default
         </div>
       </li>
     {% else %}
-    <p><i>No recently accepted RFCs.</i></p><hr/>
+    <p><i>No recently adopted RFCs.</i></p>
     {% endfor %}
-  </ul>
+  </ul><hr/>
 
-  <h1>Proposed RFCs</h1>
+  <h1>Recently Proposed Standards</h1>
 
   {% assign pending_rfcs = site.rfc | reverse | where: "status", "draft" %}
 
@@ -52,7 +64,23 @@ layout: default
         </div>
       </li>
     {% endfor %}
-  </ul>
+  </ul><hr/>
+
+  <h1>Recent Announcements</h1>
+
+  <ul class="post-list">
+    {% for rfc in site.posts limit:5 %}
+      <li>
+        <span class="post-meta">{{ rfc.date | date: "%b %-d, %Y" }}</span>
+
+        <div class="post-title">
+          <a class="post-link" href="{{ rfc.url | prepend: site.baseurl }}">{{ rfc.title }}</a>
+        </div>
+      </li>
+    {% else %}
+    <p><i>No recently announcements.</i></p>
+    {% endfor %}
+  </ul><hr/>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
