@@ -15,7 +15,7 @@ Status: **Proposed Standard**<br />
 Brian Schrader<br />
 April 2022
 
-<style>.docinfo { border-bottom: 4px solid var(--proposed-standard); }</style>
+<style>.docinfo { border-bottom: 4px solid var(--informational); }</style>
 
 ---
 
