@@ -60,10 +60,6 @@ li a.post-link {
     padding-right: 0px;
 }
 
-div.post-content {
-    text-align: justify;
-}
-
 div.post-content ol {
     padding-left: 20px;
 }
@@ -87,12 +83,18 @@ div.post-content ol {
 }
 
 @media only screen and (min-width: 750px) {
+
     .lg-only {
         display: block;
     }
     .sm-only {
         display: none;
     }
+
+    div.post-content {
+        text-align: justify;
+    }
+
 }
 
 @media only screen
@@ -105,7 +107,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     font-weight: bold;
     line-height: 0pt;
     display: inline;
-    white-space: pre;
     font-family: monospace;
     font-size: 1em;
     font-weight: bold;
