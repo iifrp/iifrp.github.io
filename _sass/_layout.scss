@@ -43,12 +43,6 @@ header div.site-nav a.page-link {
   text-align: center;
 }
 
-@include media-query($on-palm) {
-  header div.site-nav a.page-link {
-    font-size: 0.75rem;
-  }
-}
-
 .legend-bar :first-child {
     width: 100%;
     height: 8px;
