@@ -60,10 +60,13 @@ li a.post-link {
     padding-right: 0px;
 }
 
+div.post-content {
+    word-wrap: break-word;
+    overflow-x: hidden;
+}
+
 div.post-content ol {
     padding-left: 20px;
-    overflow-x: hidden;
-    word-wrap: break-word;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
