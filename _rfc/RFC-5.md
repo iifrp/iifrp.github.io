@@ -78,13 +78,13 @@ Table of Contents
 
 <span id="1">1.</span> **INTRODUCTION**
 
-Since time immemorial, mankind has lacked an adequate method for describing, categorizing, and classifying food. To this day there exists no generalized method for classifying all foodstuffs. While many methods attempt to classify certain kinds of food (e.g. sandwich classifiers, The Cube Rule) there has been little effort to create a standard that unifies all of the various kinds of foods under one single classification.
+Since time immemorial, mankind has lacked an adequate method for describing, categorizing, and classifying food. To this day there exists no generalized method for classifying all FOODSTUFFS. While many methods attempt to classify certain kinds of food (e.g. sandwich classifiers, The Cube Rule) there has been little effort to create a standard that unifies all of the various kinds of foods under one single classification.
 
 It is the mission of the Internation Institute of Food-Related Protocols (IIFRP) to take on such challenges, and this document describes the results of painstaking work on the subject. This work was achieved by a joint effort by nearly all IIFRP members, and has been the subject of heated and vigorous debate.
 
 This document describes the first, and perhaps most important pieces of the task of classifying food: the designation and justification of the most top-level classifications. In keeping with the tradition set out by biologists from nearly 300 years ago, IIFRP has elected to leverage similar terminology to describe its hierarchical classification system. No doubt many will find issue with the specific categories, as many have throughout the research and development period, but let it be known that the system presented here is the result of years of effort.
 
-Foodstuffs come in a variety of shapes and sized, they are served in a variety of manners, and they are eaten with a variety of utensils. Because of this, any classification system that leverages the size or shape, plating, or utensils associated with a food are doomed to fail. Instead a compositional or constitutive approach must instead be used to achieve success.
+FOODSTUFFS come in a variety of shapes and sized, they are served in a variety of manners, and they are eaten with a variety of utensils. Because of this, any classification system that leverages the size or shape, plating, or utensils associated with a food are doomed to fail. Instead a compositional or constitutive approach must instead be used to achieve success.
 
 
 <span id="1.1">1.1.</span> Rationale and Scope
@@ -122,12 +122,12 @@ In an effort to improve adoption of the standard, more classical (i.e. obscure) 
 
 In the realm of biological sciences, a Domain is the highest order classification. It describes many different kinds of Life and groups them into three distinct groups: often called the three-domain system.
 
-When considering the taxonomy of food there are likewise a collection of Domains that make up the world of Foodstuffs.
+When considering the taxonomy of food there are likewise a collection of Domains that make up the world of FOODSTUFFS.
 
 
 <span id="2.1.1">2.1.1.</span> Catino (Dish Domain)
 
-Foodstuffs classified in the Catino (Dish) Domain, often simply referred to as Dishes, are those that comprise a significant or otherwise REQUIRED component of a full meal. Dishes are eaten with either the hands or assistive utensils.
+FOODSTUFFS classified in the Catino (Dish) Domain, often simply referred to as Dishes, are those that comprise a significant or otherwise REQUIRED component of a full meal. Dishes are eaten with either the hands or assistive utensils.
 
 The Catino (Dish) Domain is vast, and is necessarily broken down into more helpful classifications, which are the main focus of this document. Dishes can be classified into a number of distinct categories best befitting their characteristics and composition. These kingdoms, or sub-domain classifications, are explained further in section 3 of this document.
 
@@ -135,20 +135,20 @@ In order to meet the definition of a Catino (Dish), a food must meet the followi
 
 > Dish (Domain Catino):
 >
-> A foodstuff that constitutes a significant portion of the experience of consumption; that are comprised of one or more ingredients of varying importance to the food; that are intended to be consumed wholly or entirely in a single sitting or other finite sittings; and that are substantive and culinary in nature.
+> A FOODSTUFF that constitutes a significant portion of the experience of consumption; that are comprised of one or more ingredients of varying importance to the food; that are intended to be consumed wholly or entirely in a single sitting or other finite sittings; and that are substantive and culinary in nature.
 
 This definition requires that a food be "substantive and culinary in nature"", meaning that a single, unprepared, ingredient does not constitute a dish (e.g. a single carrot or a box of dried noodles). For more information see Section 5: Regarding Ingredients.
 
 
 <span id="2.1.2">2.1.2.</span> Potus (Beverage Domain)
 
-Foodstuffs classified in the Potus (Beverage) Domain, often referred to as drinks, are those that comprise a significant or otherwise RECOMMENDED component of a full meal, but that do nevertheless convey caloric, nutritional, or enjoyment when consumed. They are often consumed by drinking (both with and without utensils) and are usually without distinguishable component parts.
+FOODSTUFFS classified in the Potus (Beverage) Domain, often referred to as drinks, are those that comprise a significant or otherwise RECOMMENDED component of a full meal, but that do nevertheless convey caloric, nutritional, or enjoyment when consumed. They are often consumed by drinking (both with and without utensils) and are usually without distinguishable component parts.
 
 In order to meet the definition of a Catino (Dish), a food must meet the following formal definition:
 
 > Potus (Beverage Domain):
 >
-> A foodstuff that constitutes a significant portion of the experience of consumption; that is comprised of one or more ingredients that are either difficult or impossible to distinguish at consumption-time and that are of varying importance to the food; that are intended to be consumed within a single or finite number of sittings; that are consumed by drinking; and that are substantive and culinary in nature.
+> A FOODSTUFF that constitutes a significant portion of the experience of consumption; that is comprised of one or more ingredients that are either difficult or impossible to distinguish at consumption-time and that are of varying importance to the food; that are intended to be consumed within a single or finite number of sittings; that are consumed by drinking; and that are substantive and culinary in nature.
 
 Similar to items classified within the Domain Catino (Dish), Beverages/Drinks must be "substantive and culinary in nature". As such, a glass of water does not constitute a food within the Potus Domain. Such a thing is likely an ingredient. For more information see Section 5: Regarding Ingredients.
 
@@ -182,29 +182,29 @@ The kingdoms are: Acetaria (Salad), Tabula (Slab), Pulmenti (Soup), and Cincta (
 
 <span id="2.2.1">2.2.1.</span> Acetaria (Salads)
 
-To be classified as belonging to the Kingdom Acetaria, a foodstuff MUST meet the following formal definition:
+To be classified as belonging to the Kingdom Acetaria, a FOODSTUFF MUST meet the following formal definition:
 
 > Acetaria (Kingdom Salad):
 >
-> A foodstuff, being already defined as within the Catino (Dish) Domain, that is comprised of various distinct components, each of relatively equal value to the dish, that is optionally amended by, but not principally composed of, a sauce.
+> A FOODSTUFF, being already defined as within the Catino (Dish) Domain, that is comprised of various distinct components, each of relatively equal value to the dish, that is optionally amended by, but not principally composed of, a sauce.
 
 
 <span id="2.2.2">2.2.2.</span> Tabula (Slab)
 
-To be classified as belonging to the Kingdom Tabula, a foodstuff MUST meet the following formal definition:
+To be classified as belonging to the Kingdom Tabula, a FOODSTUFF MUST meet the following formal definition:
 
 > Tabula (Kingdom Slab):
 >
-> A foodstuff, being already defined as within the Catino (Dish) Domain, that is comprised of a primary component and optionally one or more additional supporting components of lesser importance and value to the dish, that is optionally amended by, but not principally composed of, a sauce.
+> A FOODSTUFF, being already defined as within the Catino (Dish) Domain, that is comprised of a primary component and optionally one or more additional supporting components of lesser importance and value to the dish, that is optionally amended by, but not principally composed of, a sauce.
 
 
 <span id="2.2.3">2.2.3.</span> Pulmenti (Soup)
 
-To be classified as belonging to the Kingdom Pulmenti, a foodstuff MUST meet the following formal definition:
+To be classified as belonging to the Kingdom Pulmenti, a FOODSTUFF MUST meet the following formal definition:
 
 > Pulmenti (Kingdom Soup):
 >
-> A foodstuff, being already defined as within the Catino (Dish) Domain, that is comprised of various distinct components, each of relatively equal value to the dish, that is principally composed of, and held together by, a sauce.
+> A FOODSTUFF, being already defined as within the Catino (Dish) Domain, that is comprised of various distinct components, each of relatively equal value to the dish, that is principally composed of, and held together by, a sauce.
 
 Importantly, a dish in the kingdom Pulmenti is distinguished by its difference from the previous two kingdoms. In this case, it is the collection of distinct components, being held together by a sauce that makes dishes in this kingdom different from those in other kingdoms.
 
@@ -215,11 +215,11 @@ Where dishes in kingdom Acetaria may be without a sauce, by design or by choice,
 
 <span id="2.2.4">2.2.4.</span> Cincta (Sandwich)
 
-To be classified as belonging to the Kingdom Cincta, a foodstuff MUST meet the following formal definition:
+To be classified as belonging to the Kingdom Cincta, a FOODSTUFF MUST meet the following formal definition:
 
 > Cincta (Kingdom Sandwich):
 >
-> A foodstuff, being already defined as within the Catino (Dish) Domain, that is comprised of either a set of various distinct components of relatively equal value or a primary component supported by other lesser components that is principally circumscribed, either partially or completely, by single kind of ingredient such that said circumscription forms the bounds of the dish, and is optionally amended by, but not principally composed of, a sauce.
+> A FOODSTUFF, being already defined as within the Catino (Dish) Domain, that is comprised of either a set of various distinct components of relatively equal value or a primary component supported by other lesser components that is principally circumscribed, either partially or completely, by single kind of ingredient such that said circumscription forms the bounds of the dish, and is optionally amended by, but not principally composed of, a sauce.
 
 This definition is different from the others above in that it describes multiple additional criteria for classification within kingdom Cincta (e.g. single-ingredient circumscription) as well as the looser definition of the dish's component parts. This is intended as the principle defining element of a dish in this kingdom is not its ingredients, but how those ingredients&mdash;assuming they are not principally composed of or held together by a sauce&mdash;are contained by the food itself.
 
@@ -341,7 +341,7 @@ In the biological sciences, this problem is less of an issue: as a frog cannot, 
 
 As such no strict, top-down classification system can be decided upon without necessarily introducing ambiguity and opportunities for abuse. Instead, this document proposes a "socratic method" of taxonomic categorization for classifying food.
 
-This socratic categorization method uses the principle, originally borrowed from computer science, known as Duck Typing. Such a system, by design, does not seek to know for certainty what classification&mdash;or type&mdash;a given foodstuff is. To know such a thing seems tantamount to possessing omnipotence over the final state of all food in all time.
+This socratic categorization method uses the principle, originally borrowed from computer science, known as Duck Typing. Such a system, by design, does not seek to know for certainty what classification&mdash;or type&mdash;a given FOODSTUFF is. To know such a thing seems tantamount to possessing omnipotence over the final state of all food in all time.
 
 Instead of asking, what a thing *is*, the socratic (Duck Typed) method asks, what a thing is *like*. In using this method, the CLASSIFIER attempts to explain a given food and its relation to the domains, kingdoms, etc given by the taxonomy. In a way, this method seeks to approximate a given food and explain not its nature, but its relation to the pseudo-platonic definitions given above. The CLASSIFIER does not assign these classifications; they simply discover them.
 
@@ -441,12 +441,24 @@ Any such system not based on objective criteria (such as biologic taxonomies bas
 
 While this may seem to some readers as a critique of the proposed taxonomy, it should be noted that this flexibility is often a strength of the system, rather than a weakness, and is part of the overall design and intention of the standard.
 
-That said, such a method does open up the possibility for debate around the edges of each category. Already in various research studies, numerous examples of difficult classification have arisen and been debated. This debate has nearly always, when done in keeping with the criteria and principles behind the classification method, lead to a final agreed upon classification for a given food. Though it should be noted, this process is not guaranteed to be fast or painless. Classifying all foodstuffs is inherently a monumental task, and no classification system, taxonomy, or method however well designed will eliminate the volume of effort required to complete it.
+That said, such a method does open up the possibility for debate around the edges of each category. Already in various research studies, numerous examples of difficult classification have arisen and been debated. This debate has nearly always, when done in keeping with the criteria and principles behind the classification method, lead to a final agreed upon classification for a given food. Though it should be noted, this process is not guaranteed to be fast or painless. Classifying all FOODSTUFFS is inherently a monumental task, and no classification system, taxonomy, or method however well designed will eliminate the volume of effort required to complete it.
 
 
 <span id="5">5.</span> **REGARDING INGREDIENTS**
 
+Ingredients are not a FOOD. They are instead its principal components. While ingredients may be consumed as food (e.g. celery sticks, a glass of water) they do not meet the definition under this standard to be considered proper foods deserving of a place within the taxonomy.
 
+In a parallel to biology, ingredients are the amino acids or the proteins of food. They are required for food to exist, and they are what makes a food, but amino acids and proteins are not Life. Such is the same for ingredients.
+
+This leaves some ingredients, which are often consumed as foods, in a strange limbo, but further parallels with the biological sciences yield a remedy to this situation.
+
+In biology, there are many criteria that must be met for a thing to be considered Life. As is explained above, there are also many criteria that need to be met for a thing to be considered Food. Yet, there exists a class, outside the realm of the usual taxonomy, for things that *almost* meed the definition of Life, and so there is the same for Food.
+
+By definition, Foods must be "substantive and culinary in nature". This requires that culinary intent be present when crafting the food. Simply plating a collection of celery stalks does not constitute culinary intent. Yet, while a certain collection of proteins can reproduce without meeting the definition of Life, so too can ingredients constitute a meal or a snack without meeting the technical definition of a Food.
+
+A glass of water is a good example. While at first the glass of water may seem to share many similarities with Foods in the Potus (Beverage) Domain, it cannot be accepted as a food as it does not meet the required criteria of being "culinary in nature".
+
+A CLASSIFIER MUST take these elements into account when attempting to classify a FOODSTUFF.
 
 <span id="6">6.</span> **REFUTED ALTERNATE TAXONOMIES**
 
