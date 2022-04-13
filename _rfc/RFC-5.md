@@ -82,12 +82,12 @@ It is the mission of the Internation Institute of Food-Related Protocols (IIFRP)
 
 This document describes the first, and perhaps most important pieces of the task of classifying food: the designation and justification of the most top-level classifications. In keeping with the tradition set out by biologists from nearly 300 years ago, IIFRP has elected to leverage similar terminology to describe its hierarchical classification system. No doubt many will find issue with the specific categories, as many have throughout the research and development period, but let it be known that the system presented here is the result of years of effort.
 
-FOODSTUFFS come in a variety of shapes and sized, they are served in a variety of manners, and they are eaten with a variety of utensils. Because of this, any classification system that leverages the size or shape, plating, or utensils associated with a food are doomed to fail. Instead a compositional or constitutive approach must instead be used to achieve success.
+FOODSTUFFS come in a variety of shapes and sizes, they are served in a variety of manners, and they are eaten with a variety of utensils. Because of this, any classification system that leverages the size or shape, plating, or utensils associated with a food are doomed to fail. Instead a compositional or constitutive approach must be used to achieve success.
 
 
 <span id="1.1">1.1.</span> Rationale and Scope
 
-The task of creating a generalizable taxonomy is no simple task, and there is no doubt that for such a thing to come about, years of work would be required to finalize definitions and harden rulesets in order to determine an ultimate classification system with as few rough edges as possible.
+The task of creating a generalizable taxonomy is not a simple one, and there is no doubt that for such a thing to come about, years of work would be required to finalize definitions and harden rulesets in order to determine an ultimate classification system with as few rough edges as possible.
 
 This document describes the first two layers of a proposed general taxonomy: domains and kingdoms. Other layers are still pending further research and debate.
 
@@ -133,7 +133,7 @@ In order to meet the definition of a Catino (Dish), a food must meet the followi
 
 > Dish (Domain Catino):
 >
-> A FOODSTUFF that constitutes a significant portion of the experience of consumption; that are comprised of one or more ingredients of varying importance to the food; that are intended to be consumed wholly or entirely in a single sitting or other finite sittings; and that are substantive and culinary in nature.
+> A FOODSTUFF that constitutes a significant portion of the experience of consumption; that is comprised of one or more ingredients of varying importance to the food; that is intended to be consumed wholly or entirely in a single sitting or other finite sittings; and that is substantive and culinary in nature.
 
 This definition requires that a food be "substantive and culinary in nature"", meaning that a single, unprepared, ingredient does not constitute a dish (e.g. a single carrot or a box of dried noodles). For more information see Section 5: Regarding Ingredients.
 
@@ -142,7 +142,7 @@ This definition requires that a food be "substantive and culinary in nature"", m
 
 FOODSTUFFS classified in the Potus (Beverage) Domain, often referred to as drinks, are those that comprise a significant or otherwise RECOMMENDED component of a full meal, but that do nevertheless convey caloric, nutritional, or enjoyment when consumed. They are often consumed by drinking (both with and without utensils) and are usually without distinguishable component parts.
 
-In order to meet the definition of a Catino (Dish), a food must meet the following formal definition:
+In order to meet the definition of a Potus (Dish), a food must meet the following formal definition:
 
 > Potus (Beverage Domain):
 >
@@ -158,9 +158,9 @@ In order to meet the definition of a Condimentum (Condiment), a food must meet t
 
 > Condimentum (Condiment Domain):
 >
-> A FOODSTUFF that does not constitute a significant portion of the experience of consumption; that is comprised of one or more ingredients of varying importance to the food; that are culinary in nature.
+> A FOODSTUFF that does not constitute a significant portion of the experience of consumption; that is comprised of one or more ingredients of varying importance to the food; that is culinary in nature.
 
-Domain Condimentum is a domain of primitive foods; those just within the classification of Food itself. Notice the definition of foods within this domain do not require substance as the other domains require, nor do they require ingredients to be difficult to distinguish (as in Domain Potus) or that they be consumed within a single or finite setting.
+Domain Condimentum is a domain of primitive foods; those just within the classification of Food itself. Notice the definition of foods within this domain do not require substance as the other domains do, nor do they require ingredients to be difficult to distinguish (as in Domain Potus) or that they be consumed within a single or finite setting.
 
 <span id="2.1.1">2.1.4.</span> Diagram
 
