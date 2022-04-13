@@ -55,7 +55,7 @@ Table of Contents
     3.2. [Substantive Transformations](#3.2)<br />
     3.2.1. [Level I.](#3.2.1)<br />
     3.2.2. [Level II.](#3.2.2)<br />
-    3.2.3. [Level III.](#3.2.3)
+    3.2.3. [Level III. and onwards](#3.2.3)
 
 4. [Socratic Categorization Guidelines](#4)<br />
     4.1. [The Principle of Least Assumptions](#4.1)<br />
