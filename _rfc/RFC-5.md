@@ -66,9 +66,7 @@ Table of Contents
     4.4. [Socratic Criteria](#4.4)<br />
     4.4.1. [Determining Domain](#4.4.1)<br />
     4.4.2. [Determining Dish Kingdom](#4.4.2)<br />
-    4.4.3. [Examples](#4.4.3)<br />
-    4.5. [Notes Regarding Phyla](#4.5)<br />
-    4.6. [Drawbacks](#4.6)
+    4.5. [Drawbacks](#4.5)
 5. [Regarding Ingredients](#5)
 6. [Refuted Alternate Taxonomies](#6)
 7. [Extensibility Considerations](#7)
@@ -148,12 +146,21 @@ In order to meet the definition of a Catino (Dish), a food must meet the followi
 
 > Potus (Beverage Domain):
 >
-> A FOODSTUFF that constitutes a significant portion of the experience of consumption; that is comprised of one or more ingredients that are either difficult or impossible to distinguish at consumption-time and that are of varying importance to the food; that are intended to be consumed within a single or finite number of sittings; that are consumed by drinking; and that are substantive and culinary in nature.
+> A FOODSTUFF that constitutes a significant portion of the experience of consumption; that is comprised of one or more ingredients that are either difficult or impossible to distinguish at consumption-time and are of varying importance to the food; that is intended to be consumed within a single or finite number of sittings; that is consumed by drinking; and that are substantive and culinary in nature.
 
 Similar to items classified within the Domain Catino (Dish), Beverages/Drinks must be "substantive and culinary in nature". As such, a glass of water does not constitute a food within the Potus Domain. Such a thing is likely an ingredient. For more information see Section 5: Regarding Ingredients.
 
 <span id="2.1.3">2.1.3.</span> Condimentum (Condiment Domain)
-Condimentum
+
+FOODSTUFFS classified in the Condimentum (Condiment) Domain, often referred to as simply Condiments, are those that do not comprise a significant or otherwise RECOMMENDED component of a full meal, though they may convey caloric, nutritional, or enjoyment when consumed. FOODSTUFFS in this domain are rarely consumed alone without paring with FOODSTUFFS from the other two domains.
+
+In order to meet the definition of a Condimentum (Condiment), a food must meet the following formal definition:
+
+> Condimentum (Condiment Domain):
+>
+> A FOODSTUFF that does not constitute a significant portion of the experience of consumption; that is comprised of one or more ingredients of varying importance to the food; that are culinary in nature.
+
+Domain Condimentum is a domain of primitive foods; those just within the classification of Food itself. Notice the definition of foods within this domain do not require substance as the other domains require, nor do they require ingredients to be difficult to distinguish (as in Domain Potus) or that they be consumed within a single or finite setting.
 
 <span id="2.1.1">2.1.4.</span> Diagram
 
@@ -312,26 +319,68 @@ Regardless of the name given to this taxonomic system, it is to be noted the imp
 
 <span id="3">3.</span> **TRANSFORMATIONS**
 
+Because FOODSTUFFS, once created, can be manipulated in ways that can necessitate a change in classification, such a system for how foods can be manipulated must be introduced and prudently constructed.
 
+FOODSTUFFS of all domains are necessarily created with "culinary intent" and said intent could be to modify existing foods rather than recreate them in a new form from scratch.
+
+One could easily imagine a culinary actor, such as a home chef, unwrapping a burrito and putting it into a bowl. In such a case it would be only reasonable for a CLASSIFIER to once again attempt to make judgements about the food. Since food is not a fixed and timeless entity there must exist some way to judge these kinds of manipulations and how they affect a food.
+
+Such a system though must not be too permissive and broad. To allow every simple manipulation to change a food's classification is to surrender the taxonomy to the whims of every destructive actor and render the system useless. However to be too prescriptive would petrify the standard and lead to confusing and inconsistent classifications.
+
+Instead, the system proposed in this section defines a simple set of tools that can be used to classify a transformation on a food and therefore how that transformation affects the food and its classification within the taxonomy.
 
 <span id="3.1">3.1.</span> Elementary Transformations
+
+The first, and simplest, transformation within the system is an Elementary Transformation. Elementary transformations are usually non-transitive, meaning they by themselves are not sufficient to change a food's high-level classification. Foods that undergo one and only one elementary transformation are always non-transitive.
+
+Elementary transformations are defined thus:
+
+> Elementary Transformation (Non-Transitive)
+>
+> Any single simple, mechanical operation that is applied universally to the FOODSTUFF.
+
+Examples of elementary transformations are listed below.
+
+1. Heating/Cooling. Warming soup in the microwave does not change the fact that it is soup; neither does melting frozen soup.
+2. Flipping. Turning a sandwich upside-down does not make it a slab.
+3. Cutting/Chopping. A cut steak is still a steak.
 
 
 <span id="3.2">3.2.</span> Substantive Transformations
 
+Distinct from elementary transformations are the Substantive Transformations. Substantive transformations are transitive meaning they do change a food's classification.
 
+Substantive transformations are defined thus:
+
+> Substantive Transformation (Transitive):
+>
+> Any transformation that is significant to the construction of the FOODSTUFF that is comprised of multiple connected elementary or sub-substantive transformations such that they substantially alter the classification of the FOOD.
 
 <span id="3.2.1">3.2.1.</span> Level I.
 
+A Level I Substantive Transformation is any transformation that is significant enough to change the overall domain of the food in question. Because they affect the highest level of the taxonomy, these kinds of transformations are necessarily the most significant and drastic. As such, they often leave the food in a completely unrecognizable state and are usually rare.
 
+Examples of a Level I substantive transformation are as follows:
+
+1. Blending a sandwith with water to create a liquid.
+2. Boiling fish in water so as to extract all flavors and create a stock.
+
+Usually, FOODSTUFFS that undergo a Level I substantive transformation end the transformation as either a food in Domain Potus (Beverage) or Domain Condimentum (Condiment). It is rare for a food to enter a Level I substantive transformation as a condiment or beverage and exit as a dish.
 
 <span id="3.2.2">3.2.3.</span> Level II.
 
+A Level II substantive transformation is one that is significant enough to change the kingdom to which a food can be classified. These transformations are significant enough to substantially alter the food's categorization at a high level but fall short of changing the food's domain.
+
+Examples of a Level II substantive transformation are as follows:
+
+1. Adding slices of bread around a steak; making it a sandwich.
+2. Unrolling a burrito.
+3. Draining a soup and serving the leftover ingredients as a salad.
 
 
-<span id="3.2.3">3.2.3.</span> Level III.
+<span id="3.2.3">3.2.3.</span> Level III. and onwards
 
-
+The remaining levels of substantive transformations follow in the same manner as the previous two. Each additional level of tranformation is by definition substantial enough to alter the corresponding level of the taxonomy. For example a Level III substantive transformation would be sufficient to change a FOODSTUFF's Phyla, but not its kingdom.
 
 <span id="4">4.</span> **SOCRATIC CATEGORIZATION GUIDELINES**
 
@@ -386,7 +435,6 @@ If such factors were to be included as taxonomic components, then all food class
 
 E.g. Breakfast is a relative concept. A hash is still a salad whether it is eaten in the morning or in the evening.
 
-
 <span id="4.4">4.4.</span> Socratic Criteria
 
 The exact method of determining a given food's classification within the taxonomy is not always repeatable in the same way each time. That said, here are some guideline questions to help aid the debate and pursue the true classification. A potential CLASSIFIER should review these questions and understand them, as well as understand the purpose of each question. The latter understanding will help develop the potential CLASSIFIER's ability to generate future useful socratic classification questions.
@@ -429,13 +477,7 @@ The exact method of determining a given food's classification within the taxonom
     If so, then the dish is likely of the kingdom Pulmenti (Soup).
 
 
-<span id="4.4.3">4.4.3.</span> Examples
-
-
-<span id="4.5">4.5.</span> Notes Regarding Phyla
-
-
-<span id="4.6">4.6.</span> Drawbacks
+<span id="4.5">4.5.</span> Drawbacks
 
 Any such system not based on objective criteria (such as biologic taxonomies based on genetic information) are by their nature complex and often subjective.
 
