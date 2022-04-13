@@ -254,7 +254,6 @@ This section provides a visual set of examples of items so far assumed to be of 
    |           |        |           |             |              | - Mustard
    |           |        |           |             |
    |           |        |           |             | - Sports Drinks
-   |           |        |           |             | - Water
    |           |        |           |             | - Soda
    |           |        |           |             | - Cocktails
    |           |        |           |
