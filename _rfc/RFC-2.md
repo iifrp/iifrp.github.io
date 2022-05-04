@@ -4,20 +4,20 @@ title:  "RFC #2: The Recommended Structure of an IIFRP Request for Comments"
 date:   2021-04-18 13:38:21 -0700
 categories: rfc meta
 published: true
-status: draft
+status: accepted
 ---
 
 IIFRP Meta Committee<br />
 Request for Comments: 2<br />
-Category: Proposed Standard<br />
-Status: **Pending Comment**<br />
+Category: Standard<br />
+Status: **Adopted Standard**<br />
 
 Brian Schrader<br />
 April 2021
 
 ------
 
-<style>.docinfo { border-bottom: 4px solid #66F; }</style>
+<style>.docinfo { border-bottom: 4px solid var(--adopted-standard); }</style>
 
 Status of this Memo
 
@@ -31,9 +31,9 @@ Abstract
 
    This document describes the proposed standard format of all future IIFRP Requests for Comment (RFCs)
 
-Table of Contents
+Related RFCs:
 
-
+   - [RFC #4: Clarifying the Scope of RFC #2](/rfc/RFC-4.html)
 
 <span id="1">1.</span> **INTRODUCTION**
 
