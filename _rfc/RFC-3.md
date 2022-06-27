@@ -10,12 +10,12 @@ status: accepted
 General Community<br />
 Request for Comments: 3<br />
 Category: Meta<br />
-Status: **Proposed Standard**<br />
+Status: **Adopted Standard**<br />
 
 Brian Schrader<br />
 April 2022
 
-<style>.docinfo { border-bottom: 4px solid var(--proposed-standard); }</style>
+<style>.docinfo { border-bottom: 4px solid var(--adopted-standard); }</style>
 
 ---
 
