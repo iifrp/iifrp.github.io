@@ -4,7 +4,7 @@ title:  "RFC #3: A Process for the Adoption of Proposed Standards"
 date:   2022-04-07
 published: true
 categories: rfc
-status: draft
+status: accepted
 ---
 
 General Community<br />
