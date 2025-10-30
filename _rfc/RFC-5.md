@@ -4,18 +4,18 @@ title:  "RFC #5: A General Taxonomy for Food and Beverages"
 date:   2022-04-12 20:53 -0700
 published: true
 categories: rfc
-status: draft
+status: proposed
 ---
 
 General Community<br />
-Request for Comments: 4<br />
+Request for Comments: 5<br />
 Category: Taxonomy, General<br />
-Status: **Draft**<br />
+Status: **Proposed Standard**<br />
 
 Brian Schrader<br />
 April 2022
 
-<style>.docinfo { border-bottom: 4px solid var(--draft); }</style>
+<style>.docinfo { border-bottom: 4px solid var(--proposed-standard); }</style>
 
 Status of this Memo
 
