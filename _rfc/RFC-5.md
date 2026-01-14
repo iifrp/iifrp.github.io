@@ -10,12 +10,12 @@ status: accepted
 General Community<br />
 Request for Comments: 5<br />
 Category: Taxonomy, General<br />
-Status: **Proposed Standard**<br />
+Status: **Adopted Standard**<br />
 
 Brian Schrader<br />
 April 2022
 
-<style>.docinfo { border-bottom: 4px solid var(--proposed-standard); }</style>
+<style>.docinfo { border-bottom: 4px solid var(--adopted-standard); }</style>
 
 Status of this Memo
 
