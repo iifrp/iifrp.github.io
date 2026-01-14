@@ -4,7 +4,7 @@ title:  "RFC #5: A General Taxonomy for Food and Beverages"
 date:   2022-04-12 20:53 -0700
 published: true
 categories: rfc
-status: proposed
+status: accepted
 ---
 
 General Community<br />
